@@ -1,1 +1,3 @@
-yo soy Hector
+yo soy Héctor
+
+Estoy aprendiendo GIT al 100
